@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210202</CreaDate><CreaTime>22583100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\FloatToRaster" Date="20210202" Time="225831">FloatToRaster F:\tuflow-RB\sfe_316\results\sfe_316\grids\sfe_316_001_d_Max.flt F:\RiverArchitect-development\SampleData_sfe_RB\01_Conditions\sfe_316\depth\h000000_006.tif</Process></lineage></DataProperties></Esri></metadata>
