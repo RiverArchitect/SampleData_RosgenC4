@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210216</CreaDate><CreaTime>16261900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\ASCIIToRaster" Date="20210216" Time="162619">ASCIIToRaster F:\tuflow-RB\sfe_322_v0\model\grid\sfe_322_v0.asc f:\riverarchitect-development\sampledata_sfe_rb\01_Conditions\sfe_322_v0\dem.tif Float</Process></lineage></DataProperties></Esri></metadata>
